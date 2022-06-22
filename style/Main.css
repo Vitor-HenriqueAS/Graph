@@ -1,0 +1,32 @@
+.stButton > button {
+  height: 40px;
+  width: 100%;
+  
+  
+}
+
+.css-1q8dd3e {
+  padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+}
+
+
+img{
+  left: 280px;
+  position: relative;
+  
+}
+footer{
+  visibility: hidden;
+}
+/*
+#MainMenu{
+  visibility: hidden;
+}
+*/
+.stMarkdown{
+  text-align: center;
+}
+
+
+
+
