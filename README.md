@@ -2,11 +2,6 @@
 
 Projeto Pós Aula
 
-# Acesso ao Projeto
-
-Para acessar o [código fonte](https://github.com/Vitor-HenriqueAS/Graph)
-ou para [visualizar no site.](https://vitor-henriqueas-graph-main-ojrhxu.streamlitapp.com/)
-
 # Frameworks e Bibliotecas 
 
 - Streamlit: (pip install streamlit)
